@@ -1,4 +1,4 @@
 git is awesome
 new line
-test
+Something important.
 experiment with amend
